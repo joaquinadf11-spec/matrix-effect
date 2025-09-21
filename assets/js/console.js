@@ -2,7 +2,7 @@ export default function consoleText() {
   console.clear();
   const styles = [
     "color: white",
-    "background: rgba(238,58,136,1)",
+    "background: rgba(0, 0 ,0, 0.5)",
     "font-size: 18px",
     "padding: 12px",
     "margin: 6px 0 6px 14px",
